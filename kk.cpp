@@ -106,28 +106,15 @@ int KK(vector<int> A) {
     return h.delete_max();
 }
 
-vector<vector<int>> getNeighbors(vector<int> x){
-    vector<vector<int>> out(x.size(), x);
-    for(int i = 0; i < x.size(); i++){
-        
-    }
-
-}
-
 int main(int argc, char *argv[]){
-    int flag = stoi(argv[1]);
-    string file_name = argv[2];
+    string file_name = argv[1];
     fstream file;
     file.open(file_name.c_str());
 
     int curr = 0;
     vector<int> init;
-    int n_lines = 100;
-    if(flag > 0) {
-        n_lines = flag;
-    }
 
-    for(int i = 0; i < n_lines; i++){
+    for(int i = 0; i < 100; i++){
         if(file.eof()){
             break;
         }
