@@ -1,0 +1,1600 @@
+Run 1:
+994103356123
+KK:
+32188,66
+Repeated Random:
+121889174,94277
+Hill Climbing:
+133151836,41265
+Simulated Annealing:
+35912308,44034
+Prepartitioned Repeated Random:
+386,1764273
+Prepartitioned Hill Climbing:
+732,1584891
+Prepartitioned Simulated Annealing:
+4,2133944
+Run 2:
+997624556720
+KK:
+392602,108
+Repeated Random:
+872739714,172224
+Hill Climbing:
+595057052,73341
+Simulated Annealing:
+926954366,82997
+Prepartitioned Repeated Random:
+4,2206497
+Prepartitioned Hill Climbing:
+164,2001360
+Prepartitioned Simulated Annealing:
+164,1762726
+Run 3:
+931458301784
+KK:
+1197895,94
+Repeated Random:
+160514991,182224
+Hill Climbing:
+317009597,92858
+Simulated Annealing:
+8293271,88091
+Prepartitioned Repeated Random:
+301,2188212
+Prepartitioned Hill Climbing:
+383,1572331
+Prepartitioned Simulated Annealing:
+1,1693080
+Run 4:
+999050627454
+KK:
+102951,97
+Repeated Random:
+260033699,115049
+Hill Climbing:
+712555407,63164
+Simulated Annealing:
+132906763,77641
+Prepartitioned Repeated Random:
+135,2793778
+Prepartitioned Hill Climbing:
+361,1750958
+Prepartitioned Simulated Annealing:
+97,2008567
+Run 5:
+987909946663
+KK:
+35816,71
+Repeated Random:
+62991574,94212
+Hill Climbing:
+77196478,42871
+Simulated Annealing:
+363720340,45390
+Prepartitioned Repeated Random:
+158,1906213
+Prepartitioned Hill Climbing:
+60,1405626
+Prepartitioned Simulated Annealing:
+20,2059151
+Run 6:
+988045049665
+KK:
+30088,126
+Repeated Random:
+963914818,148577
+Hill Climbing:
+171326616,56876
+Simulated Annealing:
+37194888,74690
+Prepartitioned Repeated Random:
+8,2221099
+Prepartitioned Hill Climbing:
+1988,1787432
+Prepartitioned Simulated Annealing:
+632,1474272
+Run 7:
+985384967455
+KK:
+663053,99
+Repeated Random:
+612953253,88962
+Hill Climbing:
+929392857,38340
+Simulated Annealing:
+18786497,41477
+Prepartitioned Repeated Random:
+157,1430461
+Prepartitioned Hill Climbing:
+251,1324915
+Prepartitioned Simulated Annealing:
+463,1663587
+Run 8:
+992490213857
+KK:
+226432,127
+Repeated Random:
+410135532,112587
+Hill Climbing:
+13643648,49182
+Simulated Annealing:
+31659676,52107
+Prepartitioned Repeated Random:
+32,1588818
+Prepartitioned Hill Climbing:
+278,1350564
+Prepartitioned Simulated Annealing:
+60,1484944
+Run 9:
+991108780297
+KK:
+62891,66
+Repeated Random:
+287930529,82516
+Hill Climbing:
+173958985,40756
+Simulated Annealing:
+16779387,46758
+Prepartitioned Repeated Random:
+25,1527314
+Prepartitioned Hill Climbing:
+337,1305942
+Prepartitioned Simulated Annealing:
+33,1378867
+Run 10:
+979845726520
+KK:
+213264,62
+Repeated Random:
+231965228,78670
+Hill Climbing:
+198998312,31989
+Simulated Annealing:
+435524234,42824
+Prepartitioned Repeated Random:
+270,1500748
+Prepartitioned Hill Climbing:
+164,1378853
+Prepartitioned Simulated Annealing:
+88,1428769
+Run 11:
+999227666423
+KK:
+17414,75
+Repeated Random:
+14929028,93581
+Hill Climbing:
+515271118,35841
+Simulated Annealing:
+291527412,38706
+Prepartitioned Repeated Random:
+280,2153333
+Prepartitioned Hill Climbing:
+28,1671056
+Prepartitioned Simulated Annealing:
+64,1517696
+Run 12:
+995332226189
+KK:
+55383,107
+Repeated Random:
+84700539,81762
+Hill Climbing:
+478676983,34396
+Simulated Annealing:
+115095757,42983
+Prepartitioned Repeated Random:
+119,1458759
+Prepartitioned Hill Climbing:
+75,1408964
+Prepartitioned Simulated Annealing:
+63,1441308
+Run 13:
+995201554625
+KK:
+403031,69
+Repeated Random:
+93967059,84013
+Hill Climbing:
+34521957,34999
+Simulated Annealing:
+219478785,36610
+Prepartitioned Repeated Random:
+159,1377580
+Prepartitioned Hill Climbing:
+9,1327646
+Prepartitioned Simulated Annealing:
+65,1323300
+Run 14:
+994908595623
+KK:
+500020,72
+Repeated Random:
+330416474,81613
+Hill Climbing:
+343260498,41767
+Simulated Annealing:
+16861158,37767
+Prepartitioned Repeated Random:
+178,1523531
+Prepartitioned Hill Climbing:
+178,1331169
+Prepartitioned Simulated Annealing:
+6,1452870
+Run 15:
+990801587989
+KK:
+6126,79
+Repeated Random:
+73142004,85717
+Hill Climbing:
+30231444,37468
+Simulated Annealing:
+620031660,37633
+Prepartitioned Repeated Random:
+68,1430572
+Prepartitioned Hill Climbing:
+224,1289142
+Prepartitioned Simulated Annealing:
+390,1345578
+Run 16:
+989265866201
+KK:
+38467,75
+Repeated Random:
+149477233,82982
+Hill Climbing:
+63706635,34467
+Simulated Annealing:
+718957189,37640
+Prepartitioned Repeated Random:
+139,1495206
+Prepartitioned Hill Climbing:
+461,1324665
+Prepartitioned Simulated Annealing:
+263,1376274
+Run 17:
+980086583296
+KK:
+1079125,67
+Repeated Random:
+71659367,77593
+Hill Climbing:
+486991283,31825
+Simulated Annealing:
+159833203,35755
+Prepartitioned Repeated Random:
+469,1418949
+Prepartitioned Hill Climbing:
+1159,1254334
+Prepartitioned Simulated Annealing:
+63,1339938
+Run 18:
+976874656425
+KK:
+95479,68
+Repeated Random:
+345268027,99526
+Hill Climbing:
+202702751,48765
+Simulated Annealing:
+3553475,50991
+Prepartitioned Repeated Random:
+167,1458068
+Prepartitioned Hill Climbing:
+121,1374246
+Prepartitioned Simulated Annealing:
+721,1329345
+Run 19:
+985650310120
+KK:
+93018,65
+Repeated Random:
+218483590,73528
+Hill Climbing:
+150922632,31760
+Simulated Annealing:
+15688502,32802
+Prepartitioned Repeated Random:
+136,1424627
+Prepartitioned Hill Climbing:
+116,1262452
+Prepartitioned Simulated Annealing:
+44,1307182
+Run 20:
+997704309325
+KK:
+174483,62
+Repeated Random:
+149619447,75850
+Hill Climbing:
+861257941,31268
+Simulated Annealing:
+200412869,34547
+Prepartitioned Repeated Random:
+245,1462833
+Prepartitioned Hill Climbing:
+55,1251507
+Prepartitioned Simulated Annealing:
+83,1342853
+Run 21:
+978129819034
+KK:
+1067307,63
+Repeated Random:
+1540921817,77713
+Hill Climbing:
+477698573,34095
+Simulated Annealing:
+834507493,34570
+Prepartitioned Repeated Random:
+461,1448771
+Prepartitioned Hill Climbing:
+1855,1303576
+Prepartitioned Simulated Annealing:
+33,1349665
+Run 22:
+995259714802
+KK:
+524995,67
+Repeated Random:
+443154143,74476
+Hill Climbing:
+59983849,35269
+Simulated Annealing:
+210658591,35984
+Prepartitioned Repeated Random:
+297,1489826
+Prepartitioned Hill Climbing:
+335,1322134
+Prepartitioned Simulated Annealing:
+479,1363510
+Run 23:
+976262097612
+KK:
+119684,65
+Repeated Random:
+34909208,73641
+Hill Climbing:
+406617768,33989
+Simulated Annealing:
+4731678,34290
+Prepartitioned Repeated Random:
+198,1437111
+Prepartitioned Hill Climbing:
+210,1289356
+Prepartitioned Simulated Annealing:
+318,1315908
+Run 24:
+989713144114
+KK:
+368160,66
+Repeated Random:
+582025198,75953
+Hill Climbing:
+114496906,34566
+Simulated Annealing:
+92093814,35435
+Prepartitioned Repeated Random:
+146,1481362
+Prepartitioned Hill Climbing:
+1054,1876323
+Prepartitioned Simulated Annealing:
+100,2220416
+Run 25:
+980948447211
+KK:
+263783,89
+Repeated Random:
+231009997,107412
+Hill Climbing:
+475686775,43414
+Simulated Annealing:
+202312471,52330
+Prepartitioned Repeated Random:
+9,1579511
+Prepartitioned Hill Climbing:
+321,2114519
+Prepartitioned Simulated Annealing:
+73,1459382
+Run 26:
+994005485944
+KK:
+91396,69
+Repeated Random:
+542878390,77317
+Hill Climbing:
+1554064256,33692
+Simulated Annealing:
+973960358,40071
+Prepartitioned Repeated Random:
+36,1448584
+Prepartitioned Hill Climbing:
+1090,1311611
+Prepartitioned Simulated Annealing:
+58,1381454
+Run 27:
+996376637560
+KK:
+64038,62
+Repeated Random:
+835568036,78396
+Hill Climbing:
+404662894,33248
+Simulated Annealing:
+499100010,35299
+Prepartitioned Repeated Random:
+0,1371504
+Prepartitioned Hill Climbing:
+548,1563024
+Prepartitioned Simulated Annealing:
+20,1583614
+Run 28:
+995520894505
+KK:
+39486,75
+Repeated Random:
+75247644,88498
+Hill Climbing:
+177831686,33386
+Simulated Annealing:
+102174904,35317
+Prepartitioned Repeated Random:
+72,1559647
+Prepartitioned Hill Climbing:
+366,2572384
+Prepartitioned Simulated Annealing:
+106,2703740
+Run 29:
+997342189991
+KK:
+304162,104
+Repeated Random:
+483115472,187613
+Hill Climbing:
+222523144,91635
+Simulated Annealing:
+106970194,79350
+Prepartitioned Repeated Random:
+18,3234079
+Prepartitioned Hill Climbing:
+902,1441854
+Prepartitioned Simulated Annealing:
+4,1433912
+Run 30:
+993995191428
+KK:
+1067507,69
+Repeated Random:
+9193481,91211
+Hill Climbing:
+98792327,40832
+Simulated Annealing:
+266634265,56365
+Prepartitioned Repeated Random:
+49,1841006
+Prepartitioned Hill Climbing:
+237,1361987
+Prepartitioned Simulated Annealing:
+65,1309210
+Run 31:
+997805071035
+KK:
+26939,76
+Repeated Random:
+490303159,79193
+Hill Climbing:
+987080931,43282
+Simulated Annealing:
+268471459,46356
+Prepartitioned Repeated Random:
+177,1770444
+Prepartitioned Hill Climbing:
+53,1345758
+Prepartitioned Simulated Annealing:
+119,1326291
+Run 32:
+991869297901
+KK:
+25301,77
+Repeated Random:
+254972019,97661
+Hill Climbing:
+407070935,39348
+Simulated Annealing:
+424989395,41354
+Prepartitioned Repeated Random:
+71,1636913
+Prepartitioned Hill Climbing:
+761,1510967
+Prepartitioned Simulated Annealing:
+107,1419857
+Run 33:
+990024270751
+KK:
+168694,73
+Repeated Random:
+586317454,79687
+Hill Climbing:
+440290288,42551
+Simulated Annealing:
+152165764,48351
+Prepartitioned Repeated Random:
+66,1597537
+Prepartitioned Hill Climbing:
+40,1412761
+Prepartitioned Simulated Annealing:
+384,1358581
+Run 34:
+991584228792
+KK:
+430318,71
+Repeated Random:
+78997332,90075
+Hill Climbing:
+26890678,52008
+Simulated Annealing:
+45309758,54850
+Prepartitioned Repeated Random:
+50,1639560
+Prepartitioned Hill Climbing:
+90,1476312
+Prepartitioned Simulated Annealing:
+170,1457633
+Run 35:
+998356981299
+KK:
+347604,76
+Repeated Random:
+233348388,86519
+Hill Climbing:
+152175310,41668
+Simulated Annealing:
+1620231936,48009
+Prepartitioned Repeated Random:
+152,1579118
+Prepartitioned Hill Climbing:
+28,1408450
+Prepartitioned Simulated Annealing:
+234,1901754
+Run 36:
+990963165606
+KK:
+25229,80
+Repeated Random:
+127197525,88942
+Hill Climbing:
+197950633,44246
+Simulated Annealing:
+350799681,65973
+Prepartitioned Repeated Random:
+239,2205039
+Prepartitioned Hill Climbing:
+423,1963894
+Prepartitioned Simulated Annealing:
+349,2567520
+Run 37:
+987429321081
+KK:
+137730,100
+Repeated Random:
+224858034,149725
+Hill Climbing:
+291578178,61574
+Simulated Annealing:
+104682058,77518
+Prepartitioned Repeated Random:
+26,2709182
+Prepartitioned Hill Climbing:
+1158,1446778
+Prepartitioned Simulated Annealing:
+118,1715425
+Run 38:
+993489622161
+KK:
+206989,69
+Repeated Random:
+36608083,79628
+Hill Climbing:
+677904703,36614
+Simulated Annealing:
+28826647,38366
+Prepartitioned Repeated Random:
+275,2004706
+Prepartitioned Hill Climbing:
+175,2173947
+Prepartitioned Simulated Annealing:
+55,2493247
+Run 39:
+998997524472
+KK:
+126893,98
+Repeated Random:
+401123751,162123
+Hill Climbing:
+113220257,62486
+Simulated Annealing:
+667830309,85283
+Prepartitioned Repeated Random:
+33,2335255
+Prepartitioned Hill Climbing:
+83,1550177
+Prepartitioned Simulated Annealing:
+277,2227726
+Run 40:
+997361083995
+KK:
+22869,88
+Repeated Random:
+38980941,103479
+Hill Climbing:
+424644257,69898
+Simulated Annealing:
+44637697,83134
+Prepartitioned Repeated Random:
+5,2470150
+Prepartitioned Hill Climbing:
+483,2264011
+Prepartitioned Simulated Annealing:
+215,1895185
+Run 41:
+987190984632
+KK:
+131617,65
+Repeated Random:
+328413541,74447
+Hill Climbing:
+94783277,32374
+Simulated Annealing:
+225689725,35630
+Prepartitioned Repeated Random:
+359,2144517
+Prepartitioned Hill Climbing:
+77,2452223
+Prepartitioned Simulated Annealing:
+261,3148861
+Run 42:
+995179450826
+KK:
+391283,192
+Repeated Random:
+330757227,212159
+Hill Climbing:
+3423051,86560
+Simulated Annealing:
+6632827,99815
+Prepartitioned Repeated Random:
+147,3341623
+Prepartitioned Hill Climbing:
+431,3226498
+Prepartitioned Simulated Annealing:
+559,3288802
+Run 43:
+983321020702
+KK:
+429724,117
+Repeated Random:
+13768572,213838
+Hill Climbing:
+459809810,67445
+Simulated Annealing:
+12494586,79137
+Prepartitioned Repeated Random:
+10,1924704
+Prepartitioned Hill Climbing:
+178,1435848
+Prepartitioned Simulated Annealing:
+66,1502997
+Run 44:
+988639520651
+KK:
+168472,69
+Repeated Random:
+185994718,78889
+Hill Climbing:
+397406374,34474
+Simulated Annealing:
+66709274,36368
+Prepartitioned Repeated Random:
+298,2955556
+Prepartitioned Hill Climbing:
+50,2557628
+Prepartitioned Simulated Annealing:
+360,2330238
+Run 45:
+986788953881
+KK:
+150958,79
+Repeated Random:
+54702026,108734
+Hill Climbing:
+770191246,42404
+Simulated Annealing:
+132136018,53655
+Prepartitioned Repeated Random:
+78,2244233
+Prepartitioned Hill Climbing:
+98,1876518
+Prepartitioned Simulated Annealing:
+310,1478875
+Run 46:
+984471958626
+KK:
+286133,84
+Repeated Random:
+67024553,84531
+Hill Climbing:
+1143092021,35139
+Simulated Annealing:
+338843407,41223
+Prepartitioned Repeated Random:
+89,2523632
+Prepartitioned Hill Climbing:
+35,1416115
+Prepartitioned Simulated Annealing:
+221,1967000
+Run 47:
+988618715679
+KK:
+3909,135
+Repeated Random:
+431424115,143281
+Hill Climbing:
+172444307,61328
+Simulated Annealing:
+431366193,69620
+Prepartitioned Repeated Random:
+131,2776357
+Prepartitioned Hill Climbing:
+175,2849683
+Prepartitioned Simulated Annealing:
+63,2664283
+Run 48:
+996783353199
+KK:
+26110,187
+Repeated Random:
+437834638,218835
+Hill Climbing:
+809754564,83583
+Simulated Annealing:
+164269126,80547
+Prepartitioned Repeated Random:
+18,2241796
+Prepartitioned Hill Climbing:
+126,2155893
+Prepartitioned Simulated Annealing:
+376,2623159
+Run 49:
+989793894654
+KK:
+235834,104
+Repeated Random:
+1110315378,179812
+Hill Climbing:
+38722838,67943
+Simulated Annealing:
+262800242,75445
+Prepartitioned Repeated Random:
+50,2918789
+Prepartitioned Hill Climbing:
+130,2643614
+Prepartitioned Simulated Annealing:
+214,2264347
+Run 50:
+972939234702
+KK:
+79008,87
+Repeated Random:
+189916396,104811
+Hill Climbing:
+54401450,43167
+Simulated Annealing:
+455102192,48858
+Prepartitioned Repeated Random:
+446,2030332
+Prepartitioned Hill Climbing:
+8,1765995
+Prepartitioned Simulated Annealing:
+240,1559851
+Run 51:
+987843989981
+KK:
+46704,75
+Repeated Random:
+48729126,94015
+Hill Climbing:
+70984748,40980
+Simulated Annealing:
+232386990,46616
+Prepartitioned Repeated Random:
+34,1693039
+Prepartitioned Hill Climbing:
+326,1667556
+Prepartitioned Simulated Annealing:
+20,1749741
+Run 52:
+958036496496
+KK:
+174313,98
+Repeated Random:
+77867035,155541
+Hill Climbing:
+1205891125,60671
+Simulated Annealing:
+149188303,77161
+Prepartitioned Repeated Random:
+309,1818270
+Prepartitioned Hill Climbing:
+217,2371808
+Prepartitioned Simulated Annealing:
+249,2055452
+Run 53:
+998463656389
+KK:
+423678,62
+Repeated Random:
+381462374,69507
+Hill Climbing:
+70096958,31462
+Simulated Annealing:
+282896370,37515
+Prepartitioned Repeated Random:
+142,1509763
+Prepartitioned Hill Climbing:
+390,1507815
+Prepartitioned Simulated Annealing:
+14,2691786
+Run 54:
+996774428754
+KK:
+548992,163
+Repeated Random:
+24012110,180369
+Hill Climbing:
+6358642,81984
+Simulated Annealing:
+241299034,87315
+Prepartitioned Repeated Random:
+50,2549074
+Prepartitioned Hill Climbing:
+278,2296384
+Prepartitioned Simulated Annealing:
+246,2248710
+Run 55:
+995844116280
+KK:
+71624,164
+Repeated Random:
+121460498,131748
+Hill Climbing:
+128860210,62560
+Simulated Annealing:
+163773164,67036
+Prepartitioned Repeated Random:
+230,2486562
+Prepartitioned Hill Climbing:
+226,2130684
+Prepartitioned Simulated Annealing:
+154,2279736
+Run 56:
+991897651632
+KK:
+286622,104
+Repeated Random:
+202483470,144034
+Hill Climbing:
+944457860,58414
+Simulated Annealing:
+58891070,70960
+Prepartitioned Repeated Random:
+220,2444127
+Prepartitioned Hill Climbing:
+6,2330301
+Prepartitioned Simulated Annealing:
+194,2296353
+Run 57:
+997552587872
+KK:
+179196,96
+Repeated Random:
+133853990,141057
+Hill Climbing:
+180475272,64728
+Simulated Annealing:
+932845386,65974
+Prepartitioned Repeated Random:
+120,2444289
+Prepartitioned Hill Climbing:
+292,2285983
+Prepartitioned Simulated Annealing:
+264,2378598
+Run 58:
+993586441674
+KK:
+44050,107
+Repeated Random:
+304985606,140842
+Hill Climbing:
+192848248,66989
+Simulated Annealing:
+202071118,68871
+Prepartitioned Repeated Random:
+48,2546884
+Prepartitioned Hill Climbing:
+1492,2310669
+Prepartitioned Simulated Annealing:
+8,2330608
+Run 59:
+983167687793
+KK:
+113093,104
+Repeated Random:
+634734521,133902
+Hill Climbing:
+990082539,56356
+Simulated Annealing:
+186363097,70876
+Prepartitioned Repeated Random:
+81,2519816
+Prepartitioned Hill Climbing:
+5,2347790
+Prepartitioned Simulated Annealing:
+139,2303220
+Run 60:
+996062289720
+KK:
+261419,100
+Repeated Random:
+233370479,135624
+Hill Climbing:
+331991775,60072
+Simulated Annealing:
+203174069,70619
+Prepartitioned Repeated Random:
+221,2499870
+Prepartitioned Hill Climbing:
+41,2335658
+Prepartitioned Simulated Annealing:
+223,2397239
+Run 61:
+999528849700
+KK:
+1057,97
+Repeated Random:
+322431887,152446
+Hill Climbing:
+175534161,65355
+Simulated Annealing:
+45409669,72964
+Prepartitioned Repeated Random:
+81,2511882
+Prepartitioned Hill Climbing:
+973,2260779
+Prepartitioned Simulated Annealing:
+25,2243665
+Run 62:
+998377916289
+KK:
+149468,96
+Repeated Random:
+30011338,135365
+Hill Climbing:
+1309642564,59185
+Simulated Annealing:
+187089730,67086
+Prepartitioned Repeated Random:
+432,2496229
+Prepartitioned Hill Climbing:
+384,2181293
+Prepartitioned Simulated Annealing:
+12,2212574
+Run 63:
+994763222917
+KK:
+454995,130
+Repeated Random:
+346244059,137201
+Hill Climbing:
+162629843,57426
+Simulated Annealing:
+432113021,72551
+Prepartitioned Repeated Random:
+181,2405356
+Prepartitioned Hill Climbing:
+183,2245996
+Prepartitioned Simulated Annealing:
+93,2262799
+Run 64:
+990116056299
+KK:
+80402,145
+Repeated Random:
+1102188252,138954
+Hill Climbing:
+345737858,59243
+Simulated Annealing:
+360804848,66194
+Prepartitioned Repeated Random:
+190,2397739
+Prepartitioned Hill Climbing:
+252,2226909
+Prepartitioned Simulated Annealing:
+28,2319501
+Run 65:
+995098931858
+KK:
+215772,171
+Repeated Random:
+391669984,136633
+Hill Climbing:
+58646970,60675
+Simulated Annealing:
+375375752,72959
+Prepartitioned Repeated Random:
+12,2441646
+Prepartitioned Hill Climbing:
+72,2196412
+Prepartitioned Simulated Annealing:
+552,2323928
+Run 66:
+967302877752
+KK:
+147397,187
+Repeated Random:
+87050093,150124
+Hill Climbing:
+189285735,67295
+Simulated Annealing:
+82050333,70184
+Prepartitioned Repeated Random:
+111,2473605
+Prepartitioned Hill Climbing:
+105,2215708
+Prepartitioned Simulated Annealing:
+31,2247017
+Run 67:
+999259747605
+KK:
+26238,92
+Repeated Random:
+177761304,137666
+Hill Climbing:
+201986842,59676
+Simulated Annealing:
+162455734,65729
+Prepartitioned Repeated Random:
+2,2409328
+Prepartitioned Hill Climbing:
+40,2248086
+Prepartitioned Simulated Annealing:
+306,2259812
+Run 68:
+964943435277
+KK:
+183836,92
+Repeated Random:
+363106074,138453
+Hill Climbing:
+308633448,66228
+Simulated Annealing:
+110067084,68779
+Prepartitioned Repeated Random:
+132,2426635
+Prepartitioned Hill Climbing:
+168,2221384
+Prepartitioned Simulated Annealing:
+908,2361050
+Run 69:
+996301356988
+KK:
+1118522,93
+Repeated Random:
+137855164,144741
+Hill Climbing:
+907215910,65020
+Simulated Annealing:
+79986306,67673
+Prepartitioned Repeated Random:
+44,2714213
+Prepartitioned Hill Climbing:
+222,2525629
+Prepartitioned Simulated Annealing:
+202,2671137
+Run 70:
+987646802447
+KK:
+301987,82
+Repeated Random:
+37454895,115479
+Hill Climbing:
+166376833,72573
+Simulated Annealing:
+130317289,52461
+Prepartitioned Repeated Random:
+115,2495043
+Prepartitioned Hill Climbing:
+297,1910355
+Prepartitioned Simulated Annealing:
+151,1812366
+Run 71:
+998510459617
+KK:
+14226,69
+Repeated Random:
+10210856,83386
+Hill Climbing:
+156907792,43494
+Simulated Annealing:
+177574782,60415
+Prepartitioned Repeated Random:
+492,1997154
+Prepartitioned Hill Climbing:
+90,1862022
+Prepartitioned Simulated Annealing:
+94,1918175
+Run 72:
+998594391162
+KK:
+297316,81
+Repeated Random:
+326266888,100765
+Hill Climbing:
+606428746,49314
+Simulated Annealing:
+51948312,57739
+Prepartitioned Repeated Random:
+158,2175447
+Prepartitioned Hill Climbing:
+166,1491707
+Prepartitioned Simulated Annealing:
+62,1472924
+Run 73:
+989280740691
+KK:
+3402213,60
+Repeated Random:
+30052353,77555
+Hill Climbing:
+380610655,34770
+Simulated Annealing:
+138577493,37641
+Prepartitioned Repeated Random:
+157,1405937
+Prepartitioned Hill Climbing:
+49,1266052
+Prepartitioned Simulated Annealing:
+715,1629890
+Run 74:
+989570512333
+KK:
+216577,62
+Repeated Random:
+41175461,75756
+Hill Climbing:
+100215477,36036
+Simulated Annealing:
+130040381,39206
+Prepartitioned Repeated Random:
+775,1753147
+Prepartitioned Hill Climbing:
+63,1818904
+Prepartitioned Simulated Annealing:
+357,1237507
+Run 75:
+998666110798
+KK:
+78226,63
+Repeated Random:
+155240082,70274
+Hill Climbing:
+2992832,33114
+Simulated Annealing:
+57313102,34344
+Prepartitioned Repeated Random:
+154,1403572
+Prepartitioned Hill Climbing:
+86,1649718
+Prepartitioned Simulated Annealing:
+248,1310809
+Run 76:
+957382365589
+KK:
+353438,60
+Repeated Random:
+446200394,71529
+Hill Climbing:
+11757176,33573
+Simulated Annealing:
+116936368,38361
+Prepartitioned Repeated Random:
+212,1457866
+Prepartitioned Hill Climbing:
+192,1898960
+Prepartitioned Simulated Annealing:
+74,1420107
+Run 77:
+974933900502
+KK:
+38539,78
+Repeated Random:
+342318861,94555
+Hill Climbing:
+235467523,38437
+Simulated Annealing:
+132629281,42350
+Prepartitioned Repeated Random:
+147,1455235
+Prepartitioned Hill Climbing:
+89,1344541
+Prepartitioned Simulated Annealing:
+511,2146392
+Run 78:
+963545782525
+KK:
+46247,151
+Repeated Random:
+504866867,146617
+Hill Climbing:
+304230833,67444
+Simulated Annealing:
+335527653,99039
+Prepartitioned Repeated Random:
+3,2522141
+Prepartitioned Hill Climbing:
+509,2683523
+Prepartitioned Simulated Annealing:
+411,2707548
+Run 79:
+969176255793
+KK:
+17880,96
+Repeated Random:
+45535790,174058
+Hill Climbing:
+1057862,74296
+Simulated Annealing:
+571925368,92998
+Prepartitioned Repeated Random:
+654,3067267
+Prepartitioned Hill Climbing:
+900,2669661
+Prepartitioned Simulated Annealing:
+512,2795835
+Run 80:
+997053107257
+KK:
+59846,164
+Repeated Random:
+483911706,155167
+Hill Climbing:
+115995864,67907
+Simulated Annealing:
+35100364,97697
+Prepartitioned Repeated Random:
+572,3281153
+Prepartitioned Hill Climbing:
+24,3045366
+Prepartitioned Simulated Annealing:
+766,3266652
+Run 81:
+988416041437
+KK:
+49701,186
+Repeated Random:
+50918097,191505
+Hill Climbing:
+307192177,85582
+Simulated Annealing:
+844492481,94225
+Prepartitioned Repeated Random:
+217,2996011
+Prepartitioned Hill Climbing:
+105,2682232
+Prepartitioned Simulated Annealing:
+313,2748367
+Run 82:
+999072813883
+KK:
+3027,148
+Repeated Random:
+162003341,146907
+Hill Climbing:
+308206991,79125
+Simulated Annealing:
+136260701,69359
+Prepartitioned Repeated Random:
+121,2225131
+Prepartitioned Hill Climbing:
+913,3072865
+Prepartitioned Simulated Annealing:
+337,2529401
+Run 83:
+964296207599
+KK:
+69230,85
+Repeated Random:
+162119446,144286
+Hill Climbing:
+32717364,70476
+Simulated Annealing:
+147891134,77800
+Prepartitioned Repeated Random:
+54,2690277
+Prepartitioned Hill Climbing:
+484,2650607
+Prepartitioned Simulated Annealing:
+92,2553269
+Run 84:
+987479285809
+KK:
+442822,113
+Repeated Random:
+738213648,138063
+Hill Climbing:
+455368914,64380
+Simulated Annealing:
+191247986,71723
+Prepartitioned Repeated Random:
+148,2607932
+Prepartitioned Hill Climbing:
+264,2495025
+Prepartitioned Simulated Annealing:
+160,2353688
+Run 85:
+997336541246
+KK:
+7981,85
+Repeated Random:
+5813213,149118
+Hill Climbing:
+25747547,79236
+Simulated Annealing:
+475807127,100945
+Prepartitioned Repeated Random:
+147,2830669
+Prepartitioned Hill Climbing:
+221,2495099
+Prepartitioned Simulated Annealing:
+55,2430915
+Run 86:
+992236592410
+KK:
+162640,84
+Repeated Random:
+14284950,126723
+Hill Climbing:
+102003428,61562
+Simulated Annealing:
+256865788,70296
+Prepartitioned Repeated Random:
+342,2648041
+Prepartitioned Hill Climbing:
+750,2502502
+Prepartitioned Simulated Annealing:
+472,2447514
+Run 87:
+992241904504
+KK:
+86264,93
+Repeated Random:
+544497660,130376
+Hill Climbing:
+221337570,55060
+Simulated Annealing:
+289811104,65191
+Prepartitioned Repeated Random:
+12,1942125
+Prepartitioned Hill Climbing:
+48,1521035
+Prepartitioned Simulated Annealing:
+124,2381412
+Run 88:
+997577088206
+KK:
+32610,187
+Repeated Random:
+37613544,199950
+Hill Climbing:
+16510948,82182
+Simulated Annealing:
+91383228,94580
+Prepartitioned Repeated Random:
+132,2803911
+Prepartitioned Hill Climbing:
+572,2399620
+Prepartitioned Simulated Annealing:
+0,2386078
+Run 89:
+961728791341
+KK:
+149163,80
+Repeated Random:
+86132605,112731
+Hill Climbing:
+159074457,79081
+Simulated Annealing:
+5154415,79597
+Prepartitioned Repeated Random:
+147,2707228
+Prepartitioned Hill Climbing:
+661,2339998
+Prepartitioned Simulated Annealing:
+13,2452904
+Run 90:
+998683853961
+KK:
+72446,92
+Repeated Random:
+109866934,147875
+Hill Climbing:
+316131032,85909
+Simulated Annealing:
+97925188,99541
+Prepartitioned Repeated Random:
+62,2760784
+Prepartitioned Hill Climbing:
+568,2330907
+Prepartitioned Simulated Annealing:
+16,2448325
+Run 91:
+991171080584
+KK:
+1800076,83
+Repeated Random:
+129438620,117188
+Hill Climbing:
+293033008,63824
+Simulated Annealing:
+548110260,74320
+Prepartitioned Repeated Random:
+34,2567588
+Prepartitioned Hill Climbing:
+450,2312580
+Prepartitioned Simulated Annealing:
+70,2267101
+Run 92:
+999423140175
+KK:
+16076,90
+Repeated Random:
+262439358,108902
+Hill Climbing:
+214001882,64231
+Simulated Annealing:
+173872390,66188
+Prepartitioned Repeated Random:
+38,2531993
+Prepartitioned Hill Climbing:
+206,2641632
+Prepartitioned Simulated Annealing:
+76,2416617
+Run 93:
+998389735759
+KK:
+14081,130
+Repeated Random:
+78091197,120536
+Hill Climbing:
+344371031,56013
+Simulated Annealing:
+191301667,83754
+Prepartitioned Repeated Random:
+661,2612385
+Prepartitioned Hill Climbing:
+707,2342206
+Prepartitioned Simulated Annealing:
+11,2330129
+Run 94:
+996092104176
+KK:
+120239,93
+Repeated Random:
+561833963,145157
+Hill Climbing:
+449470219,65271
+Simulated Annealing:
+197968987,80329
+Prepartitioned Repeated Random:
+7,2527628
+Prepartitioned Hill Climbing:
+9,2355977
+Prepartitioned Simulated Annealing:
+9,2446346
+Run 95:
+991795799450
+KK:
+685570,93
+Repeated Random:
+38688116,124328
+Hill Climbing:
+1166849758,55057
+Simulated Annealing:
+609631266,66735
+Prepartitioned Repeated Random:
+144,2553022
+Prepartitioned Hill Climbing:
+660,2408289
+Prepartitioned Simulated Annealing:
+292,2443888
+Run 96:
+997401543520
+KK:
+38788,146
+Repeated Random:
+547843510,135560
+Hill Climbing:
+640925842,64669
+Simulated Annealing:
+197121124,79511
+Prepartitioned Repeated Random:
+120,2579300
+Prepartitioned Hill Climbing:
+540,2316082
+Prepartitioned Simulated Annealing:
+8,2496585
+Run 97:
+976885799791
+KK:
+230547,93
+Repeated Random:
+117878249,138513
+Hill Climbing:
+570761251,67646
+Simulated Annealing:
+562665695,82505
+Prepartitioned Repeated Random:
+185,2885276
+Prepartitioned Hill Climbing:
+981,2442548
+Prepartitioned Simulated Annealing:
+149,2485533
+Run 98:
+999872700833
+KK:
+127234,119
+Repeated Random:
+338091372,135632
+Hill Climbing:
+62195340,67960
+Simulated Annealing:
+113983032,82064
+Prepartitioned Repeated Random:
+268,2507883
+Prepartitioned Hill Climbing:
+916,2258802
+Prepartitioned Simulated Annealing:
+48,2495808
+Run 99:
+996399900467
+KK:
+17617,81
+Repeated Random:
+285798845,114745
+Hill Climbing:
+475142587,61539
+Simulated Annealing:
+261409475,73971
+Prepartitioned Repeated Random:
+207,2647850
+Prepartitioned Hill Climbing:
+17,2354457
+Prepartitioned Simulated Annealing:
+73,2397695
+Run 100:
+994876252387
+KK:
+44567,90
+Repeated Random:
+731995253,131517
+Hill Climbing:
+847965759,59498
+Simulated Annealing:
+241336743,76035
+Prepartitioned Repeated Random:
+103,2549094
+Prepartitioned Hill Climbing:
+273,2396319
+Prepartitioned Simulated Annealing:
+129,2463016

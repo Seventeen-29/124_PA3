@@ -364,21 +364,34 @@ int main(int argc, char *argv[]){
 
     file.close();
 
+    auto start = chrono::high_resolution_clock::now();
+
     if(algorithm == KARMAKAR_KARP) {
-        cout << KK(init) << endl;     
+        cout << KK(init);     
     } else if(algorithm < 10){
         signs_soln soln = signs_soln(init, algorithm);
         for(int i = 0; i < 25000; i++) {
             soln.step(i);
         }
-        cout << soln.get_final_residue() << endl;     
+        cout << soln.get_final_residue();     
     } else {
         partitions_soln soln = partitions_soln(init, algorithm);
         for(int i = 0; i < 25000; i++) {
             soln.step(i);
         }
-        cout << soln.get_final_residue() << endl;     
+        cout << soln.get_final_residue();     
     }
+
+    auto stop = chrono::high_resolution_clock::now(); 
+    auto duration = chrono::duration_cast<chrono::microseconds>(stop - start); 
+
+    if(flag == 1){
+        cout << "," << duration.count() << endl;
+    }
+    else{
+        cout << endl;
+    }
+
     // signs_soln hill_soln = signs_soln(init);
     // signs_soln rep_soln = signs_soln(init);
     // signs_soln anneal_soln = signs_soln(init);
