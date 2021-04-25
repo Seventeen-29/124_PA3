@@ -203,7 +203,7 @@ void print_vector(vector<unsigned long long> v) {
 unsigned long long KK(vector<unsigned long long> A) {
     max_heap h = {A};
     h.build_max_heap();
-    print_vector(h.contents());
+    // print_vector(h.contents());
 
     while(h.size() > 1) {
         unsigned long long first = h.delete_max();
