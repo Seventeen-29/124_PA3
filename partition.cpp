@@ -174,7 +174,7 @@ class signs_soln {
             int i1 = rand() % nums.size();
             int i2 = rand() % nums.size();
             while (i2 == i1) {
-                int i2 = rand() % nums.size();
+                i2 = rand() % nums.size();
             }
 
             int flip_i2 = (rand() % 2) == 0;
@@ -201,7 +201,7 @@ class signs_soln {
             int i1 = rand() % nums.size();
             int i2 = rand() % nums.size();
             while (i2 == i1) {
-                int i2 = rand() % nums.size();
+                i2 = rand() % nums.size();
             }
 
             int flip_i2 = (rand() % 2) == 0;
