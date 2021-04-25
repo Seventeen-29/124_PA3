@@ -200,7 +200,7 @@ void print_vector(vector<unsigned long long> v) {
     printf("\n");
 }
 
-int KK(vector<unsigned long long> A) {
+unsigned long long KK(vector<unsigned long long> A) {
     max_heap h = {A};
     h.build_max_heap();
     // print_vector(h.contents());
