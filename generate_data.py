@@ -3,5 +3,8 @@ a = []
 upper = 10**12
 with open("input.txt", "w") as f:
     for i in range(100):
-        f.write("{}\n".format(random.randint(1, upper)))
+        r = random.randint(1, upper)
+        a.append(r)
+        f.write("{}\n".format(r))
+print(max(a))
 

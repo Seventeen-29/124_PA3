@@ -160,7 +160,7 @@ struct max_heap {
     }
 
     void build_max_heap() {
-        for(int i = a.size() / 2; i > 0; i--) {
+        for(int i = a.size() / 2; i >= 0; i--) {
             max_heapify(i);
         }
     }
@@ -203,11 +203,12 @@ void print_vector(vector<unsigned long long> v) {
 unsigned long long KK(vector<unsigned long long> A) {
     max_heap h = {A};
     h.build_max_heap();
-    // print_vector(h.contents());
+    print_vector(h.contents());
+
     while(h.size() > 1) {
         unsigned long long first = h.delete_max();
         unsigned long long second = h.delete_max();
-        //printf("    first: %d, second: %d\n", first, second);
+        // printf("    first: %lld, second: %lld\n", first, second);
         h.insert(first - second);
         //print_vector(h.contents());
     }
