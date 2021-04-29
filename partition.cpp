@@ -210,7 +210,7 @@ class signs_soln {
             unsigned long long new_residue = get_residue(vals, nums);
             // https://stackoverflow.com/questions/686353/random-float-number-generation
             float p = static_cast <float> (rand()) / static_cast <float> (RAND_MAX);
-            float t_iter = pow(10, 10) * pow(0.8, floor (iter / 300.));
+            float t_iter = pow(10, 10) * pow(0.8, floor (iter / 1000.));
             float probability_threshold = exp(-(new_residue - old_residue) / t_iter);
 
             if((old_residue <= new_residue) && (p > probability_threshold)){
@@ -225,7 +225,7 @@ class signs_soln {
         }
 
         static unsigned long long get_residue(vector<int> v, vector<unsigned long long> a) {
-            unsigned long long residue = 0;
+            long long residue = 0;
             for(int i = 0; i < v.size(); i++) {
                 residue += v[i] * a[i];
             }
@@ -385,7 +385,7 @@ int main(int argc, char *argv[]){
     auto stop = chrono::high_resolution_clock::now(); 
     auto duration = chrono::duration_cast<chrono::microseconds>(stop - start); 
 
-    if(flag == 1){
+    if(flag > 0){
         cout << "," << duration.count() << endl;
     }
     else{
